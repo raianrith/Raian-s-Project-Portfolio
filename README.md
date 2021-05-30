@@ -3,7 +3,7 @@ Write A Description
 
 # Project 1: Bookdown - R, SQL, Web Scraping 
 
-## A book that I assembled upon completion of DataCamp Courses with notes and examples on the basics of R, SQL and Web Scraping 
+### A book that I assembled upon completion of DataCamp Courses with notes and examples on the basics of R, SQL and Web Scraping 
 
 - Introduction to R 
 - Intermediate R 
