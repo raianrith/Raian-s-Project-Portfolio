@@ -1,5 +1,5 @@
 
-Below are the projects that I have worked on. Projects are labeled **Level 1(Basic)**, **Level 2(Intermediate)**, and **Level 3(Advanced)** based on the amount and difficulty of programming skills used. The levels are assigned according to my programming abilities and knowledge. 
+Below are the projects that I have worked on. Projects are labeled **Level 1 (Basic)**, **Level 2 (Intermediate)**, and **Level 3 (Advanced)** based on the amount and difficulty of programming skills used. The levels are assigned according to my programming abilities and knowledge. 
 
 # [Project 1: Bookdown - R, SQL, Web Scraping](https://econ380w21.github.io/bpRaRw1Ky1RyM8Y1h/) (Level 2)
 
