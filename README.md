@@ -1,4 +1,4 @@
-# Raian_Rith - Data_Projects_Portfolio
+
 Aspiring Data Analyst/Scientist with an Economics and Data Science background. 
 
 Below are the projects that I have worked on. Projects are labeled **Level 1(Basic)**, **Level 2(Intermediate)**, and **Level 3(Advanced)** based on the amount and difficulty of programming skills used. The levels are assigned according to my programming abilities and knowledge. 
