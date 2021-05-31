@@ -15,19 +15,9 @@ A book that I assembled upon completion of DataCamp Courses with notes and examp
 - Simpe Linear Regression , Multiple Linear Regression
 - Dummy Variable, Fixed Effects, Difference-in-Differences
 
-# [Project 2: Amazon Books Best Sellers](https://github.com/raianrith/Amazon_BestSeller) (Level 1)
+# [Project 2: The iPhone Overview](https://github.com/raianrith/iPhone_RShiny) (Level 2)
 
-- Short Blog on Yearly Best Selling Books by Amazon from years (2009 - 2019)
-- Data Collected from **Kaggle**
-- Basic **data cleaning**, **data manipulation**, **feature engineering**, **data visualization**
-- Used **ggplot** and **ggplotly** to create **Interactive Plot**
-- Project strictly for implementation of **ggplot** and **ggplotly** abilities. **Blog and plot conclusions may/may not be accurate** due to insufficient data.
-
-<img width="897" alt="Screen Shot 2021-05-31 at 12 58 20 PM" src="https://user-images.githubusercontent.com/61523138/120228071-07240b00-c210-11eb-9cce-d3ccc783957b.png">
-
-# [Project 3: The iPhone Overview](https://github.com/raianrith/iPhone_RShiny) (Level 2)
-
-- An R Shiny App  which helps users visualize **4 variables (iPhone Model, Price, Battery Life & Sales)**  in various ways using **6 different user inputs**.
+- An **R Shiny App**  which helps users visualize the Sales, Battery Life, and Launch Price for each type of model of iPhones since the iPhone 3gs.
 - Data gathered through **Web Scraping** using **Selector Gadget**
 - Project includes **Data Taming**, **Data Tidying**, **Data Transformation**, **Data Manipulation**, and **Joining Data**
 - Project includes advanced **ggplot** graphs
@@ -42,6 +32,17 @@ A book that I assembled upon completion of DataCamp Courses with notes and examp
 
 **Type 2 Graph**
 <img width="1440" alt="Screenshot2" src="https://user-images.githubusercontent.com/61523138/120231946-17d87f00-c218-11eb-82f3-cfce7faa3a06.png">
+
+
+# [Project 3: Amazon Books Best Sellers](https://github.com/raianrith/Amazon_BestSeller) (Level 1)
+
+- Short Blog on Yearly Best Selling Books by Amazon from years (2009 - 2019)
+- Data Collected from **Kaggle**
+- Basic **data cleaning**, **data manipulation**, **feature engineering**, **data visualization**
+- Used **ggplot** and **ggplotly** to create **Interactive Plot**
+- Project strictly for implementation of **ggplot** and **ggplotly** abilities. **Blog and plot conclusions may/may not be accurate** due to insufficient data.
+
+<img width="897" alt="Screen Shot 2021-05-31 at 12 58 20 PM" src="https://user-images.githubusercontent.com/61523138/120228071-07240b00-c210-11eb-9cce-d3ccc783957b.png">
 
 
 
