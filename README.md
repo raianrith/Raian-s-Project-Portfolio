@@ -25,5 +25,23 @@ A book that I assembled upon completion of DataCamp Courses with notes and examp
 
 <img width="897" alt="Screen Shot 2021-05-31 at 12 58 20 PM" src="https://user-images.githubusercontent.com/61523138/120228071-07240b00-c210-11eb-9cce-d3ccc783957b.png">
 
+# [Project 3: The iPhone Overview](https://github.com/raianrith/iPhone_RShiny) (Level 2)
+
+- An R Shiny App  which helps users visualize **4 variables (iPhone Model, Price, Battery Life & Sales)**  in various ways using **6 different user inputs**.
+- Data gathered through **Web Scraping** using **Selector Gadget**
+- Project includes **Data Taming**, **Data Tidying**, **Data Transformation**, **Data Manipulation**, and **Joining Data**
+- Project includes advanced **ggplot** graphs
+- User gets to switch between 2 Types of graphs (**Scatterplots** connected by **segments** and a user initiated **correlation**)
+- Type 1 graph helps users visualize the Sales, Battery Life, and Launch Price for each type of model of iPhones since iPhone 3g
+- Type 2 graph shows the correlations between any two among the 4 variables which the user chooses through the **Shiny App**
+
+
+**Type 1 Graph**
+<img width="1440" alt="Screenshot" src="https://user-images.githubusercontent.com/61523138/120231939-11e29e00-c218-11eb-973b-bc1f3ca218bb.png">
+
+**Type 2 Graph**
+<img width="1440" alt="Screenshot2" src="https://user-images.githubusercontent.com/61523138/120231946-17d87f00-c218-11eb-82f3-cfce7faa3a06.png">
+
+
 
 
