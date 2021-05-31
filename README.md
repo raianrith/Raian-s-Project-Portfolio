@@ -21,7 +21,7 @@ A book that I assembled upon completion of DataCamp Courses with notes and examp
 - Data Collected from **Kaggle**
 - Basic **data cleaning**, **data manipulation**, **feature engineering**, **data visualization**
 - Used **ggplot** and **ggplotly** to create **Interactive Plot**
-- Project strictly for implementation of **ggplot** and **ggplotly** abilities. **Blog and plot conclusions may/may not be accurate**.
+- Project strictly for implementation of **ggplot** and **ggplotly** abilities. **Blog and plot conclusions may/may not be accurate** due to insufficient data.
 
 <img width="897" alt="Screen Shot 2021-05-31 at 12 58 20 PM" src="https://user-images.githubusercontent.com/61523138/120228071-07240b00-c210-11eb-9cce-d3ccc783957b.png">
 
@@ -34,6 +34,7 @@ A book that I assembled upon completion of DataCamp Courses with notes and examp
 - User gets to switch between 2 Types of graphs (**Scatterplots** connected by **segments** and a user initiated **correlation**)
 - Type 1 graph helps users visualize the Sales, Battery Life, and Launch Price for each type of model of iPhones since iPhone 3g
 - Type 2 graph shows the correlations between any two among the 4 variables which the user chooses through the **Shiny App**
+- Project strictly for implementation of **R-Shiny**, **Web Scraping**, **Data Manupulation**, and **GGplot** abilities. **Plot conclusions may/may not be accurate** due to insufficient data.
 
 
 **Type 1 Graph**
