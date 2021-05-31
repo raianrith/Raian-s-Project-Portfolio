@@ -23,6 +23,7 @@ A book that I assembled upon completion of DataCamp Courses with notes and examp
 - Used **ggplot** and **ggplotly** to create **Interactive Plot**
 - Project strictly for implementation of **ggplot** and **ggplotly** abilities. **Blog and plot conclusions may/may not be accurate**.
 
-<img width="946" alt="Screen Shot 2021-05-30 at 12 38 22 PM" src="https://user-images.githubusercontent.com/61523138/120114268-002fc680-c144-11eb-892d-83e416d52c66.png">
+<img width="897" alt="Screen Shot 2021-05-31 at 12 58 20 PM" src="https://user-images.githubusercontent.com/61523138/120228071-07240b00-c210-11eb-9cce-d3ccc783957b.png">
+
 
 
