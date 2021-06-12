@@ -15,7 +15,21 @@ A book that I assembled upon completion of DataCamp Courses with notes and examp
 - Simpe Linear Regression , Multiple Linear Regression
 - Dummy Variable, Fixed Effects, Difference-in-Differences
 
-# [Project 2: The iPhone Overview](https://github.com/raianrith/iPhone_RShiny) (Level 2)
+
+# [Project 2: Econometrics - Panel-Data Project](https://econ380w21.github.io/CP-GuiHungParkerRaian-w6Eg4UfA6P0q/) (Level 3)
+
+ Panel-data project (PP) exploring exploring 2020 US Presidential Election results at the county level, together with county-level demographic data
+
+- data obtained from the 2019 ACS 5-Year via the **tidycensus package**.
+- **Big Data** cleaning, tidying, joining, manipulating, and feature engineering
+- Creating Interactive U.S Maps
+- Simpe Linear Regression , Multiple Linear Regression
+
+<img width="794" alt="Screen Shot 2021-06-12 at 5 30 36 PM" src="https://user-images.githubusercontent.com/61523138/121791149-67219680-cbac-11eb-901d-ac3ab4dfb4b8.png">
+
+<img width="794" alt="Screen Shot 2021-06-12 at 5 31 17 PM" src="https://user-images.githubusercontent.com/61523138/121791162-7c96c080-cbac-11eb-9e4b-1c34531aa2de.png">
+
+# [Project 3: The iPhone Overview](https://github.com/raianrith/iPhone_RShiny) (Level 2)
 
 - An **R Shiny App**  which helps users visualize the Sales, Battery Life, and Launch Price for each type of model of iPhones since the iPhone 3gs.
 - Data gathered through **Web Scraping** using **Selector Gadget**
@@ -34,7 +48,7 @@ A book that I assembled upon completion of DataCamp Courses with notes and examp
 <img width="1440" alt="Screenshot2" src="https://user-images.githubusercontent.com/61523138/120231946-17d87f00-c218-11eb-82f3-cfce7faa3a06.png">
 
 
-# [Project 3: Amazon Books Best Sellers](https://github.com/raianrith/Amazon_BestSeller) (Level 1)
+# [Project 4: Amazon Books Best Sellers](https://github.com/raianrith/Amazon_BestSeller) (Level 1)
 
 - Short Blog on Yearly Best Selling Books by Amazon from years (2009 - 2019)
 - Data Collected from **Kaggle**
