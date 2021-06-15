@@ -19,6 +19,7 @@ A book that I assembled upon completion of DataCamp Courses with notes and examp
 
 - Project aims to figure out the best Spam Email Classifying algorithm within the algorithms used based on misclassification rates and true negatives.
 - Data set collected at Hewlett-Packard Labs, classifies 4601 e-mails as spam or non-spam. 
+- Optimal Choice : Bagging and Support Vectom Machine with linear Kernel - misclassification error rate of 12% (lowest among all models and approaches) and only 2 (lowest among all models and approaches) non spam emails being classified as spam emails. 
 
 **Classifiers Used:**
 
