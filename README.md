@@ -67,7 +67,7 @@ A book that I assembled upon completion of DataCamp Courses with notes and examp
 <img width="1440" alt="Screenshot2" src="https://user-images.githubusercontent.com/61523138/120231946-17d87f00-c218-11eb-82f3-cfce7faa3a06.png">
 
 
-# [Project 4: Amazon Books Best Sellers](https://github.com/raianrith/Amazon_BestSeller) (Level 1)
+# [Project 5: Amazon Books Best Sellers](https://github.com/raianrith/Amazon_BestSeller) (Level 1)
 
 - Short Blog on Yearly Best Selling Books by Amazon from years (2009 - 2019)
 - Data Collected from **Kaggle**
