@@ -1,21 +1,8 @@
 
 Below are the projects that I have worked on. Projects are labeled **Level 1 (Basic)**, **Level 2 (Intermediate)**, and **Level 3 (Advanced)** based on the amount and difficulty of programming skills used. The levels are assigned according to my programming abilities and knowledge. 
 
-# [Project 1: Bookdown - R, SQL, Web Scraping](https://econ380w21.github.io/bpRaRw1Ky1RyM8Y1h/) (Level 2)
 
-A book that I assembled upon completion of DataCamp Courses with notes and examples on the basics of R, SQL and Web Scraping.
-
-- Introduction and Intermediate **R**  
-- Introduction to the **Tidyverse**, Data Visualization with **ggplot2** 
-- Categorical & Quantitative Data
-- Cleaning, Joining and Data Manipulation(Basic Feature Engieering)
-- Introduction to **SQL**
-- Joining Data in **SQL**
-- Web Scraping in **R**
-- Simpe Linear Regression , Multiple Linear Regression
-- Dummy Variable, Fixed Effects, Difference-in-Differences
-
-# [Project 2: Power BI Dashboard : Alumni Location](https://github.com/raianrith/PowerBI-Alumni-Dashboard) (Level 2)
+# [Project 1: Power BI Dashboard : Alumni Location](https://github.com/raianrith/PowerBI-Alumni-Dashboard) (Level 2)
 
 - Extensive use of R and Power BI Query for data wrangling and feature engineering
 - An interactive dashboard that lets end user observe where Lawrence University Alumnis are located post graduation. 
@@ -23,7 +10,7 @@ A book that I assembled upon completion of DataCamp Courses with notes and examp
 
 ![](alumni-map.PNG)
 
-# [Project 3: Machine Learning Project : Spam Classifier](https://github.com/raianrith/ML_SpamEmail) (Level 3)
+# [Project 2: Machine Learning Project : Spam Classifier](https://github.com/raianrith/ML_SpamEmail) (Level 3)
 
 - Project aims to figure out the best Spam Email Classifying algorithm within the algorithms used based on misclassification rates and true negatives.
 - Data set collected at Hewlett-Packard Labs, classifies 4601 e-mails as spam or non-spam. 
@@ -43,7 +30,7 @@ A book that I assembled upon completion of DataCamp Courses with notes and examp
 <img width="1354" alt="Screen Shot 2021-06-14 at 7 05 16 PM" src="https://user-images.githubusercontent.com/61523138/121975369-15f9da00-cd47-11eb-95f5-fcbe43679131.png">
 
 
-# [Project 4: Econometrics - Panel-Data Project](https://econ380w21.github.io/CP-GuiHungParkerRaian-w6Eg4UfA6P0q/) (Level 3)
+# [Project 3: Econometrics - Panel-Data Project](https://econ380w21.github.io/CP-GuiHungParkerRaian-w6Eg4UfA6P0q/) (Level 3)
 
  Panel-data project (PP) exploring exploring 2020 US Presidential Election results at the county level, together with county-level demographic data
 
@@ -55,6 +42,21 @@ A book that I assembled upon completion of DataCamp Courses with notes and examp
 <img width="794" alt="Screen Shot 2021-06-12 at 5 30 36 PM" src="https://user-images.githubusercontent.com/61523138/121791149-67219680-cbac-11eb-901d-ac3ab4dfb4b8.png">
 
 <img width="794" alt="Screen Shot 2021-06-12 at 5 31 17 PM" src="https://user-images.githubusercontent.com/61523138/121791162-7c96c080-cbac-11eb-9e4b-1c34531aa2de.png">
+
+
+# [Project 4: Bookdown - R, SQL, Web Scraping](https://econ380w21.github.io/bpRaRw1Ky1RyM8Y1h/) (Level 2)
+
+A book that I assembled upon completion of DataCamp Courses with notes and examples on the basics of R, SQL and Web Scraping.
+
+- Introduction and Intermediate **R**  
+- Introduction to the **Tidyverse**, Data Visualization with **ggplot2** 
+- Categorical & Quantitative Data
+- Cleaning, Joining and Data Manipulation(Basic Feature Engieering)
+- Introduction to **SQL**
+- Joining Data in **SQL**
+- Web Scraping in **R**
+- Simpe Linear Regression , Multiple Linear Regression
+- Dummy Variable, Fixed Effects, Difference-in-Differences
 
 # [Project 5: The iPhone Overview](https://github.com/raianrith/iPhone_RShiny) (Level 2)
 
